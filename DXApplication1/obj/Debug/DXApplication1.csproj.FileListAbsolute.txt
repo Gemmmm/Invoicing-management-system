@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.UserInfoManagemenForm.resources
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
+C:\Users\DELL\Desktop\DXApplication1\DXApplication1\obj\Debug\DXApplication1.login.resources
